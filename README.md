@@ -4,6 +4,8 @@
 
 Built with **SQL (MySQL) + Tableau** on an AccuLynx CRM export. All figures are aggregated; client names, job names, and individual rep names are anonymized.
 
+![Production Bottlenecks — average days per workflow status](production-bottlenecks.png)
+
 ## The three analyses
 
 ### 1. Lead Source Profitability
@@ -42,8 +44,13 @@ SQL (MySQL) · Tableau · Excel/Google Sheets (source exports)
 
 ## Screenshots
 
-- `images/production-bottlenecks.png` — average days per workflow status
-- `images/lead-source-profitability.png` — gross margin % by lead source
+**Production bottlenecks — average days per workflow status:**
+
+![Production Bottlenecks](production-bottlenecks.png)
+
+**Lead source profitability — gross profit margin % by lead source:**
+
+![Lead Source Profitability](lead-source-profitability.png)
 - Salesperson-performance and dashboard views exist in the original workbook; their public versions are pending an anonymized re-export (rep names → Rep A, Rep B, …).
 
 ## What I'd do next
